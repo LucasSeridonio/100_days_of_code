@@ -2,7 +2,7 @@
 print('Welcome to the app Band Name Generator\n\n')
 
 #2. Ask the user for the city that they grew up in.
-city = input('What city did you grow up in?\n')
+city = input('Which city did you grow up in?\n')
 
 #3. Ask the user for the name of a pet.
 pet_name = input("Enter a pet's name: \n")
